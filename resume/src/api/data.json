@@ -1,0 +1,234 @@
+{
+	"name": "Drake Costa",
+	"headline": "Front-End Web Developer",
+	"contact": {
+		"email": "saeris@comcast.net",
+		"phone": "(925) 548-2801",
+		"website": {
+			"display": "Portfolio",
+			"url": "http://www.miritica.net"
+		},
+		"social_networks": {
+			"facebook": "",
+			"twitter": "",
+			"instagram": "",
+			"youtube": "",
+			"twitch": "",
+			"github": "http://www.github.com/Saeris",
+			"linkedin": "http://www.linkedin.com/in/saeris"
+		}
+	},
+	"objective": "Seeking a mid-level position in Front-End Web Development where I can utilize my unique assortment of skills and simultaneously grow. I prefer roles where I can tap into my design background to implement creative solutions to problems. An ideal setup for me would be under a senior developer whom I can turn to as a mentor and work that would allow me to improve usability and efficiency for both the end user and the team as a whole.",
+	"summary": "",
+	"expertise": [{
+		"order": 0,
+		"skill": "HTML",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 1,
+		"skill": "CSS",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 2,
+		"skill": "Javascript",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 3,
+		"skill": "PHP",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 4,
+		"skill": "MySQL",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 5,
+		"skill": "jQuery",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 6,
+		"skill": "Aurelia",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 7,
+		"skill": "Angular",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 8,
+		"skill": "SASS",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 9,
+		"skill": "Apache HTTP Server",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 10,
+		"skill": "Node.js",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 11,
+		"skill": "Selenium",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 12,
+		"skill": "JSPM",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 13,
+		"skill": "Gulp",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 14,
+		"skill": "Grunt",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 15,
+		"skill": "JIRA",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 16,
+		"skill": "Bugzilla",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 17,
+		"skill": "Git",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 18,
+		"skill": "Sublime Text",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 19,
+		"skill": "Microsoft Office",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 20,
+		"skill": "Adobe Creative Suite",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 21,
+		"skill": "Windows",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 22,
+		"skill": "OS X",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 23,
+		"skill": "Ubuntu Linux",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 24,
+		"skill": "Design",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 25,
+		"skill": "Problem Solving",
+		"description": "",
+		"rating": 5
+	}, {
+		"order": 26,
+		"skill": "Critical Thinking",
+		"description": "",
+		"rating": 5
+	}],
+	"experience": [{
+		"company": "Catalyst DevWorks",
+		"title": "Front-End Technical Lead",
+		"start": "August 2015",
+		"end": "February 2016",
+		"location": "Beaverton, OR",
+		"summary": "",
+		"keywords": [],
+		"highlights": [{
+			"name": "Cambia Health Solutions",
+			"description": "Regence/Asuris Insurance Mobile Optimization Project",
+			"summary": "",
+			"keywords": [],
+			"highlights": [
+				"Responsible for front-end development of password recovery, message center, and member dashboard pages for Regence BlueCross and Asuris Health.",
+				"Trained fellow developers in the use of CSS Flexbox, resulting in faster development, cleaner, more maintainable markup, and a significantly more responsive mobile experience.",
+				"Audited the front-end build chain and helped implement more efficient use of Node modules, Grunt and SASS. Upgrading to NPM 3 cut duplicate files down from roughly 2.6 million (6+ Gb) to under 30 thousand (250 Mb). As a result, full builds take 15 minutes down from over 1 hour."
+			]
+		}, {
+			"name": "Catalyst",
+			"description": "Talent Management Application",
+			"summary": "",
+			"keywords": [],
+			"highlights": [
+				"Took the lead on the front-end of the project, providing wire-frames, developing the user experience, and engineering the application's structure within the Aurelia framework. In the face of rapidly changing project goals, I quickly adapted to new requirements and iterated on the design to suit the needs of the product owner.",
+				"Lead a team of five junior developers, helping to bring them up to speed with project technologies such as Aurelia, Docker, and Flexbox, as well as ensuring they understood the project structure from a conceptual level.",
+				"Wrote supporting documentation for developer on-boarding, facilitating quick ramp-up times in an environment where developers are frequently rolled on and off the project."
+			]
+		}]
+	}, {
+		"company": "Sellpoints, Inc.",
+		"title": "Contract Front-End Web Developer",
+		"start": "December 2014",
+		"end": "May 2015",
+		"location": "Emeryville, CA",
+		"summary": "",
+		"keywords": [],
+		"highlights": [
+			"Programmed a browser extension using jQuery and AJAX to automate common tasks for the production team, resulting in hundreds of work hours saved and drastically reduced error rates.",
+			"Coded the front-end for the Nicole Miller IBM Watson powered search results prototype shown at CES 2015. As a result, Sellpoints received a $7.5 million Series C investment from IBM.",
+			"Updated Sellpoints’ collection of raster callout icons to a modern, vector-based icon font which will allow for greater customization, faster page load times, and a more consistent experience across a range of devices in the future. Result: 227 customizable glyphs delivered in 2 http requests, totaling 39kb/50ms."
+		]
+	}, {
+		"company": "Blizzard Entertainment",
+		"title": "Level Design Intern",
+		"start": "June 2012",
+		"end": "September 2012",
+		"location": "Irvine, CA",
+		"summary": "",
+		"keywords": [],
+		"highlights": [
+			"Designed 3 multiplayer maps which shipped with Heart of the Swarm. Each was part of the official ladder where they were played millions of times, earned high ratings and praise for fostering innovative play.",
+			"Pitched and contributed to the development of the ‘Data Navigator’ visualization tool, which assists developers and fans in understanding the complex structure of game assets, speeding their creation.",
+			"Helped develop new community engagement strategies. As a result developers now communicate directly with mod developers, helping to both educate the community and resolve tools related bugs faster."
+		]
+	}],
+	"education": [{
+		"school": "Gnomon School of Visual Effects",
+		"location": "Hollywood, CA",
+		"status": "Attended",
+		"start": "Fall 2011",
+		"end": "Spring 2012",
+		"focus": "Individual Courses",
+		"achievements": [],
+		"keywords": []
+	}, {
+		"school": "Las Positas College",
+		"location": "Livermore, CA",
+		"status": "Graduated",
+		"start": "",
+		"end": "May 2010",
+		"focus": "AA – VISUAL COMMUNICATIONS, EMPHASIS IN PRINT + WEB DESIGN",
+		"achievements": [],
+		"keywords": []
+	}]
+}
