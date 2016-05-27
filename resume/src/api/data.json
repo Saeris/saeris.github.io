@@ -34,87 +34,87 @@
 		"order": 2,
 		"skill": "Javascript",
 		"description": "",
-		"rating": 5
+		"rating": 3
 	}, {
 		"order": 3,
 		"skill": "PHP",
 		"description": "",
-		"rating": 5
+		"rating": 4
 	}, {
 		"order": 4,
 		"skill": "MySQL",
 		"description": "",
-		"rating": 5
+		"rating": 3
 	}, {
 		"order": 5,
 		"skill": "jQuery",
 		"description": "",
-		"rating": 5
+		"rating": 3
 	}, {
 		"order": 6,
 		"skill": "Aurelia",
 		"description": "",
-		"rating": 5
+		"rating": 2
 	}, {
 		"order": 7,
 		"skill": "Angular",
 		"description": "",
-		"rating": 5
+		"rating": 1
 	}, {
 		"order": 8,
 		"skill": "SASS",
 		"description": "",
-		"rating": 5
+		"rating": 3
 	}, {
 		"order": 9,
 		"skill": "Apache HTTP Server",
 		"description": "",
-		"rating": 5
+		"rating": 3
 	}, {
 		"order": 10,
 		"skill": "Node.js",
 		"description": "",
-		"rating": 5
+		"rating": 3
 	}, {
 		"order": 11,
 		"skill": "Selenium",
 		"description": "",
-		"rating": 5
+		"rating": 1
 	}, {
 		"order": 12,
-		"skill": "JSPM",
+		"skill": "Webpack",
 		"description": "",
-		"rating": 5
+		"rating": 2
 	}, {
 		"order": 13,
 		"skill": "Gulp",
 		"description": "",
-		"rating": 5
+		"rating": 2
 	}, {
 		"order": 14,
 		"skill": "Grunt",
 		"description": "",
-		"rating": 5
+		"rating": 2
 	}, {
 		"order": 15,
 		"skill": "JIRA",
 		"description": "",
-		"rating": 5
+		"rating": 3
 	}, {
 		"order": 16,
 		"skill": "Bugzilla",
 		"description": "",
-		"rating": 5
+		"rating": 3
 	}, {
 		"order": 17,
 		"skill": "Git",
 		"description": "",
-		"rating": 5
+		"rating": 3
 	}, {
 		"order": 18,
 		"skill": "Sublime Text",
 		"description": "",
-		"rating": 5
+		"rating": 3
 	}, {
 		"order": 19,
 		"skill": "Microsoft Office",
@@ -134,12 +134,12 @@
 		"order": 22,
 		"skill": "OS X",
 		"description": "",
-		"rating": 5
+		"rating": 4
 	}, {
 		"order": 23,
 		"skill": "Ubuntu Linux",
 		"description": "",
-		"rating": 5
+		"rating": 3
 	}, {
 		"order": 24,
 		"skill": "Design",
@@ -149,7 +149,7 @@
 		"order": 25,
 		"skill": "Problem Solving",
 		"description": "",
-		"rating": 5
+		"rating": 4
 	}, {
 		"order": 26,
 		"skill": "Critical Thinking",
