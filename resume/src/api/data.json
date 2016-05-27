@@ -168,12 +168,12 @@
 		"end": "February 2016",
 		"location": "Beaverton, OR",
 		"summary": "",
-		"tags": [],
+		"tags": ["Agile", "Front-End Web Development", "JavaScript", "UI Design", "UX Design"],
 		"highlights": [{
 			"name": "Cambia Health Solutions",
 			"description": "Regence/Asuris Insurance Mobile Optimization Project",
 			"summary": "",
-			"tags": [],
+			"tags": ["Apache Velocity", "Liferay", "Intellij IDEA", "Flexbox", "Git", "Grunt", "Java", "Sass"],
 			"highlights": [
 				"Responsible for front-end development of password recovery, message center, and member dashboard pages for <a href='https://www.regence.com/web/regence_individual/' target='_blank'>Regence BlueCross<\/a> and <a href='https://www.asuris.com/' target='_blank'>Asuris Health<\/a>.",
 				"Trained fellow developers in the use of CSS Flexbox, resulting in faster development, cleaner, more maintainable markup, and a significantly more responsive mobile experience.",
@@ -183,7 +183,7 @@
 			"name": "Catalyst",
 			"description": "Talent Management Application",
 			"summary": "",
-			"tags": [],
+			"tags": ["Aurelia", "Bootstrap", "Docker", "Gulp", "JIRA", "Project Documentation", "Sass", "SPA", "Team Leadership", "UI Design", "UX Design", "Web Components", "Wireframing"],
 			"highlights": [
 				"Took the lead on the front-end of the project, providing wire-frames, developing the user experience, and engineering the application's structure within the Aurelia framework. In the face of rapidly changing project goals, I quickly adapted to new requirements and iterated on the design to suit the needs of the product owner.",
 				"Lead a team of five junior developers, helping to bring them up to speed with project technologies such as Aurelia, Docker, and Flexbox, as well as ensuring they understood the project structure from a conceptual level.",
@@ -197,7 +197,7 @@
 		"end": "May 2015",
 		"location": "Emeryville, CA",
 		"summary": "",
-		"tags": [],
+		"tags": ["AJAX", "Bugzilla", "Front-End Web Development", "JavaScript", "jQuery", "SVG", "UI Design", "UX Design"],
 		"highlights": [
 			"Programmed a browser extension using jQuery and AJAX to automate common tasks for the production team, resulting in hundreds of work hours saved and drastically reduced error rates.",
 			"Coded the front-end for the Nicole Miller IBM Watson powered search results prototype shown at CES 2015. As a result, Sellpoints received a <a href='https://www-03.ibm.com/press/us/en/pressrelease/46950.wss' target='_blank'>$7.5 million Series C investment from IBM<\/>.",
@@ -210,7 +210,7 @@
 		"end": "September 2012",
 		"location": "Irvine, CA",
 		"summary": "",
-		"tags": [],
+		"tags": ["Agile", "Balance Design", "Game Design", "Level Design", "Multiplayer Design", "StarCraft 2 Galaxy Editor", "Tortoise SVN"],
 		"highlights": [
 			"Designed <a href='http://wiki.teamliquid.net/starcraft2/Atlas_Station' target='_blank'>3<\/a> <a href='http://wiki.teamliquid.net/starcraft2/Sky_Harvester' target='_blank'>multiplayer<\/a> <a href='http://wiki.teamliquid.net/starcraft2/Vault_of_Secrets' target='_blank'>maps<\/a> which shipped with Heart of the Swarm. Each was part of the official ladder where they were played millions of times, earned high ratings and praise for fostering innovative play.",
 			"Pitched and contributed to the development of the ‘Data Navigator’ visualization tool, which assists developers and fans in understanding the complex structure of game assets, speeding their creation.",
@@ -223,7 +223,7 @@
 		"summary": "An online resume building application built with Aurelia, Webpack and Sass. Resumes are dynamically built inside a template from a json data source. The current build demos this functionality, with live editing and data file exports to be added soon!",
 		"start": "May 2016",
 		"end": "Present",
-		"tags": [],
+		"tags": ["Aurelia", "ES6", "JavaScript", "Sass", "SPA", "Web Components", "Webpack"],
 		"highlights": []
 	}, {
 		"name": "StarCraft II Melee Data Collection Library",
@@ -231,7 +231,7 @@
 		"summary": "",
 		"start": "September 2012",
 		"end": "March 2013",
-		"tags": [],
+		"tags": ["Database Design", "Google Chart Tools", "jQuery", "MySQL", "PHP"],
 		"highlights": [
 			"Datamining project composed of a game modification that tracks over 100 data points and outputs them to an XML log file, and a PHP/MySQL based website designed to demonstrate analytical techniques.",
 			"Completely self-designed and built from scratch, this project was both a proof of concept and an effort to familiarize myself with the tools and techniques needed to build an enterprise-level web application.",
@@ -246,7 +246,7 @@
 		"end": "Spring 2012",
 		"focus": "Individual Courses",
 		"achievements": [],
-		"tags": []
+		"tags": ["Adobe Photoshop", "Autodesk 3DS Max", "Autodesk Maya", "Unreal Engine"]
 	}, {
 		"school": "Las Positas College",
 		"location": "Livermore, CA",
@@ -255,6 +255,6 @@
 		"end": "May 2010",
 		"focus": "AA – VISUAL COMMUNICATIONS, EMPHASIS IN PRINT + WEB DESIGN",
 		"achievements": [],
-		"tags": []
+		"tags": ["Adobe Illustrator", "Adobe Lightroom", "Adobe Photoshop", "Graphic Design", "Photography", "Typography", "Web Design"]
 	}]
 }
